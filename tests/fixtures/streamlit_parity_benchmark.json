@@ -1,0 +1,242 @@
+[
+  {
+    "raw_text": "pengiriman lama sampai,bahkan barang yg di pesan tidak datang malah terkensel sendiri ada beberapa sih toko yg tak ada konfirmasi tidak semua ea kka good job deh buat lebih baik ea",
+    "rating": 4,
+    "cleaned_python": "kirim lama sampaibahkan barang di pesan datang malah kensel sendiri beberapa sih toko tak konfirmasi semua ea kka good job deh buat lebih baik ea",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.5153,
+    "proba_positif": 0.4847
+  },
+  {
+    "raw_text": "baik dan benar sesuai pesanan",
+    "rating": 5,
+    "cleaned_python": "baik benar sesuai pesan",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.4157,
+    "proba_positif": 0.5843
+  },
+  {
+    "raw_text": "banyak promonya bagus",
+    "rating": 5,
+    "cleaned_python": "banyak promonya bagus",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.1359,
+    "proba_positif": 0.8641
+  },
+  {
+    "raw_text": "sangatlah mudah di gunakan untuk membuat pesanan",
+    "rating": 5,
+    "cleaned_python": "sangat mudah guna buat pesan",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.2461,
+    "proba_positif": 0.7539
+  },
+  {
+    "raw_text": "WOY INI KENAPA SIH SHOPEE GABISA LIAT PENILAIAN SHOPEE FOOD?! UDAH DI UPDATE JUGA HERAN IH.",
+    "rating": 4,
+    "cleaned_python": "woy kenapa sih shopee gabisa liat nilai shopee food udah update heran ih",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.3413,
+    "proba_positif": 0.6587
+  },
+  {
+    "raw_text": "Untuk shopeefoodnya",
+    "rating": 5,
+    "cleaned_python": "shopeefoodnya",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.4511,
+    "proba_positif": 0.5489
+  },
+  {
+    "raw_text": "tolong dibantu shopee plus saya .saya mau daftar Shopee food driver",
+    "rating": 5,
+    "cleaned_python": "bantu shopee plus saya mau daftar shopee food driver",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.355,
+    "proba_positif": 0.645
+  },
+  {
+    "raw_text": "banyak discon dan gratis ongkir top dah pokok nya",
+    "rating": 5,
+    "cleaned_python": "banyak discon gratis ongkir top dah pokok",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.0916,
+    "proba_positif": 0.9084
+  },
+  {
+    "raw_text": "saya suka sekali belanja di shopee....tapi tolong untuk jasa pengiriman jangan pakai Antareja soalnya ngga amanah...sudah 2 kali saya di kecewakan",
+    "rating": 5,
+    "cleaned_python": "suka sekali belanja shopeetapi untuk jasa kirim jangan pakai antareja soal ngga amanahsudah kali di kecewa",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.4304,
+    "proba_positif": 0.5696
+  },
+  {
+    "raw_text": "sesuai pesanan barang bagus sangat puas",
+    "rating": 5,
+    "cleaned_python": "sesuai pesan barang bagus sangat puas",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.1773,
+    "proba_positif": 0.8227
+  },
+  {
+    "raw_text": "bagus lancar jaya sukses terus banyak diskon dan promo",
+    "rating": 5,
+    "cleaned_python": "bagus lancar jaya sukses terus banyak diskon promo",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.0805,
+    "proba_positif": 0.9195
+  },
+  {
+    "raw_text": "harus di tingkatkan adakan no kontak WhatsApp di kurir untuk bisa lebih mudah menanyakan paket",
+    "rating": 4,
+    "cleaned_python": "tingkat adakan no kontak whatsapp di kurir bisa lebih mudah tanya paket",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.3373,
+    "proba_positif": 0.6627
+  },
+  {
+    "raw_text": "pesanan mudah dan cepat",
+    "rating": 5,
+    "cleaned_python": "pesan mudah cepat",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.1036,
+    "proba_positif": 0.8964
+  },
+  {
+    "raw_text": "udah cocok belanja di sini. banyak promo dan laim lain..jadi seru belanja di sini. semua ada di sini.top dah.maksih shope ,sukses selalu ya",
+    "rating": 5,
+    "cleaned_python": "udah cocok belanja sini banyak promo laim lainjadi seru belanja sini semua di sinitop dahmaksih shope sukses selalu",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.0653,
+    "proba_positif": 0.9347
+  },
+  {
+    "raw_text": "ongkire jangan mahal2",
+    "rating": 5,
+    "cleaned_python": "ongkire jangan mahal",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.5742,
+    "proba_positif": 0.4258
+  },
+  {
+    "raw_text": "pesanan selesai dari kurir, tapi pesnan belum sampai ke alamat pembeli",
+    "rating": 1,
+    "cleaned_python": "pesan selesai kurir pesnan sampai alamat beli",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.6185,
+    "proba_positif": 0.3815
+  },
+  {
+    "raw_text": "Tolong Diperbaiki Aplikasinya Saat Hitungan mundur hari (countdown) sudah habis (0 hari), tetapi tanggal batas yang tertera masih menunjukkan hari esok",
+    "rating": 1,
+    "cleaned_python": "baik aplikasi hitung mundur hari countdown habis hari tanggal batas tera tunjuk hari esok",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.3172,
+    "proba_positif": 0.6828
+  },
+  {
+    "raw_text": "aplikasi sampah .hp flagsip ku jadi mirip xiaomi .tau2 muncul iklan full selayar ..kl masih gini akan ku uninstall lama2 .tolong di hilangkan saja iklannya .saya aktif bgt lo di shopee .hr ini saja sy deal 2 pesanan .aplikasi laknat .abis transaksi terahir ini ane uninstall app ini .iklan muncul terus .udah di skip pun musik background masih bunyi .sialan .dah ane uninstall shopee .aplikasi brisik .pdhl byk transaksi ane di situ .ga peduli.hr kemerdekaan ga kasih diskon mlh biaya ongkir spf 2-5x",
+    "rating": 1,
+    "cleaned_python": "aplikasi sampah hp flagsip ku jadi mirip xiaomi tau muncul iklan full layar kl gin ku uninstall lama hilang iklan aktif banget lo shopee hr saja sy deal pesan aplikasi laknat abis transaksi terahir ane uninstall app iklan muncul terus udah skip musik background bunyi sial dah ane uninstall shopee aplikasi brisik pdhl byk transaksi ane di situ ga pedulihr merdeka ga kasih diskon mlh biaya ongkir spf x",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.7052,
+    "proba_positif": 0.2948
+  },
+  {
+    "raw_text": "aplikasi ga jelas, katanya pengguna baru dapat voucher bener sih dapet tapi apa gunanya kalo ga bisa dipake? ngapain ngasih voucher ujung ujungnya ga bisa dipake, aneh",
+    "rating": 1,
+    "cleaned_python": "aplikasi ga jelas kata guna baru voucher bener sih dapet apa guna kalo ga dipake ngapain ngasih voucher ujung ujung ga dipake aneh",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.8673,
+    "proba_positif": 0.1327
+  },
+  {
+    "raw_text": "2x pesanan saya dikembalikan padahal pembeli belom liat barang",
+    "rating": 1,
+    "cleaned_python": "x pesan kembali padahal beli bom liat barang",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.6321,
+    "proba_positif": 0.3679
+  },
+  {
+    "raw_text": "pengen pesen barang di sini aja pengiriman disini bisa tembus 2 bulan ko kurir mondar mandir juga ada di sini jadi tunggu apalagi buruan riport segera🙂‍↕️",
+    "rating": 1,
+    "cleaned_python": "ken sen barang sini aja kirim sini tembus bulan ko kurir mondar mandir ada sini jadi tunggu buru riport segera",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.418,
+    "proba_positif": 0.582
+  },
+  {
+    "raw_text": "saya beli HP oppo A31 di aplikasi Shopee nama tokonya langit biru alamat kota jakarta barat ternyata HP yang saya beli sudah di sadap oleh orang saya hrp tidak terjadi apapun dgn data saya kalau tidak saya akan menuntut kalian semua termasuk aplikasi Shopee yang sudah memasukkan jualan berbahaya seperti ini ingat ini sudah melanggar hukum",
+    "rating": 1,
+    "cleaned_python": "beli hp oppo a aplikasi shopee nama toko langit biru alamat kota jakarta barat nyata hp beli di sadap orang hrp jadi apa data saya kalau saya tuntut kalian semua masuk aplikasi shopee sudah masuk jual bahaya ingat ini sudah langgar hukum",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.4898,
+    "proba_positif": 0.5102
+  },
+  {
+    "raw_text": "lag..sekarang pelit voucher gratisan makin kesini makin buruk",
+    "rating": 2,
+    "cleaned_python": "lagsekarang pelit voucher gratis makin kesini makin buruk",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.5848,
+    "proba_positif": 0.4152
+  },
+  {
+    "raw_text": "balsis terossss, order sembako balsissss. padahal udah sesuai arahan 1hp cuma 1akun dan 1ktp. masih aja ribet shopee. alasan terdeteksi aktivitas tidak wajar dan pake voucher berlebihan. lah kan yg nyedian voucher shopee nya sendiri, anehhh. tiap co muncul kode f00 atau balsis. mending uninstall dan beralih ke toktok",
+    "rating": 1,
+    "cleaned_python": "balsis terossss order sembako balsissss padahal udah sesuai arah hp cuma akun ktp aja ribet shopee alas deteksi aktivitas wajar pake voucher lebih lah kan nyedian voucher shopee sendiri anehhh tiap co muncul kode f balsis mending uninstall alih toktok",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.863,
+    "proba_positif": 0.137
+  },
+  {
+    "raw_text": "Aplikasi yang sekongkol dengan toko Agres.id, mereka sekongkol memaksa saya menerima laptop rusak, saya dibuat gagal mengajukan pengembalian dana karena aplikasi ini memihak toko Agres.id, padahal video saya lengkap dari mulai unboxing sampai laptop tersebut mati lagi karena tidak berfungsi, sedangkan bukti dari Agres.id hanya menunjukkan video menghidupkan laptop, TANPA ADANYA VIDEO UNBOXING, dan yang dimenangkan adalah VIDEO TANPA UNBOXING DARI TOKO KESAYANGAN SHOPEE, YAITU AGRES.ID SANGPENIPU",
+    "rating": 1,
+    "cleaned_python": "aplikasi sekongkol toko agresid sekongkol paksa terima laptop rusak buat gagal aju kembali dana aplikasi pihak toko agresid padahal video lengkap mulai unboxing laptop sebut mati karena fungsi bukti agresid tunjuk video hidup laptop ada video unboxing yang menang video unboxing toko sayang shopee agresid sangpenipu",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.5008,
+    "proba_positif": 0.4992
+  },
+  {
+    "raw_text": "langganan VIP, baru sebulan sudah balsis ada aktivitas mencurigakan, akhirnya yang dihape satu saya ga lanjutin langgan karena voucher ga bisa dipake juga, makin aneh, tapi berantas bot ga bisa",
+    "rating": 1,
+    "cleaned_python": "langgan vip baru bulan balsis aktivitas curiga akhir dihape satu ga lanjutin langgan voucher ga dipake makin aneh berantas bot ga",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.7778,
+    "proba_positif": 0.2222
+  },
+  {
+    "raw_text": "knpa pakai sicepat lama tau tau yg antar kerumah kurir JNE terus. padahal dipaket label nya sicepat",
+    "rating": 1,
+    "cleaned_python": "knpa pakai sicepat lama tau tau antar rumah kurir jne terus padahal paket label sicepat",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.6411,
+    "proba_positif": 0.3589
+  },
+  {
+    "raw_text": "dongo it sistem drivernya, katanya orderan dibagi rata pdhl yg gacor mh gacor yg anyeb mh ngungsep",
+    "rating": 1,
+    "cleaned_python": "dongo it sistem drivernya kata order bagi rata pdhl gacor mh gacor anyeb mh ngungsep",
+    "expected_prediction": "Negatif",
+    "proba_negatif": 0.7309,
+    "proba_positif": 0.2691
+  },
+  {
+    "raw_text": "kpn Iyya shopee in setiap d buka muncul heror padahal jaringan bagus tolong d bagus si dan ongkir nya 80 ribu hrga barang nya cuma 40 ribu mahalan ongkir tlong d jawab Iyya",
+    "rating": 1,
+    "cleaned_python": "kpn iyya shopee in d buka muncul heror padahal jaring bagus d bagus si ongkir ribu hrga barang cuma ribu mahal ongkir tlong d jawab iyya",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.4547,
+    "proba_positif": 0.5453
+  },
+  {
+    "raw_text": "tumben pesanan sangat lambat dikirim padahal order udah seminggu. ini yang lambat tokonya apa shopee nya. aku kasih bintang dua dulu.",
+    "rating": 2,
+    "cleaned_python": "tumben pesan sangat lambat kirim padahal order udah minggu yang lambat toko apa shopee aku kasih bintang dulu",
+    "expected_prediction": "Positif",
+    "proba_negatif": 0.4731,
+    "proba_positif": 0.5269
+  }
+]

@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+Sastrawi
+nltk
+matplotlib
+seaborn
+wordcloud
+mysql-connector-python
+fpdf
+openpyxl
+joblib
